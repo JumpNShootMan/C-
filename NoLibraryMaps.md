@@ -1,4 +1,8 @@
 ```C++
+#include <iostream>
+#include <conio.h>
+using namespace std;
+using namespace System;
 void Dibujar_mapa(int **mapa)
 {
 	for (int i = 0; i<25; i++) //largo del mapa
